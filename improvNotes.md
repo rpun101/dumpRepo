@@ -90,6 +90,8 @@
     - other person join the scene with scale 10 emtions: "OH MY GOOOOOOD"
 
 
-#### think about ####
-+ Asking yourself what can you do to push your Character further.
-+ Also developing characters you have never had before. using the animal human is a very good way to develop characters.
+#### Tips, think about ####
++ Ask yourself what can you do to push your Character further.
++ Using animal human characters ia a good way to develop characters.
++ When brains wants to hold back, you should commit more the characters, and really go for it. Authenticity is bought by audience. Push the comfort zone and don't be afraid to fail.
++ 
