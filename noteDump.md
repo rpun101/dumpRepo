@@ -34,7 +34,7 @@ _attempt to understand the exisiting code artitecture_
 + [looks like good read on whole thing](https://medium.com/@isaaclyman/when-you-finish-reading-this-youll-know-how-to-code-721339942b51)
 + [master new codebase record time](https://simpleprogrammer.com/master-new-codebase-record-time/)
 + 
-### Debugging Tips ###'
+### Debugging Tips ###
 + [7 ways](https://devblogs.microsoft.com/visualstudio/7-lesser-known-hacks-for-debugging-in-visual-studio/)
 + [Tips and Tricks Debugging](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-tips-and-tricks?view=vs-2017)
 + [Expolore point 7](https://stackify.com/debugging-tips-net/)
