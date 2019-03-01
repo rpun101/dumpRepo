@@ -80,8 +80,10 @@
     - "I am not writing", Group: "yes, I am not writing"
     - Variation: Person can start with "Did you ever ....."
 + "Clams are great >>>> "
-    + you list clams are great because i am writing
-    + unitl you run out of list, then we clap and continue to next person
+    - you list clams are great because i am writing
+    - unitl you run out of list, then we clap and continue to next person
+
+
 
 #### Scenes Play ####
 
@@ -89,9 +91,25 @@
     - person starts with 1 emotion: today is cold
     - other person join the scene with scale 10 emtions: "OH MY GOOOOOOD"
 
++ Bananas
+    - close your eyes and say Banana repeteadly while jogging
+    - then jump in the scene
+    - speak out, any word or sentence that comes to mind with a scene partner doing the same.
+    - now we have two river, lets try to have world where both scenario co-exist
+    - (variation) starting with silent, eye contact then jump in the scene
+
++ 
+
 
 #### Tips, think about ####
 + Ask yourself what can you do to push your Character further.
 + Using animal human characters ia a good way to develop characters.
 + When brains wants to hold back, you should commit more the characters, and really go for it. Authenticity is bought by audience. Push the comfort zone and don't be afraid to fail.
 + 
+
+
+
+#### Setting the boundaries ####
++ importance of timeout signal(creating a safe place)'
++ talking about the physical bouandary and topics to avoid before the play
++ shake and shout for warm up :)
