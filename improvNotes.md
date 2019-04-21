@@ -113,3 +113,6 @@
 + importance of timeout signal(creating a safe place)'
 + talking about the physical bouandary and topics to avoid before the play
 + shake and shout for warm up :)
+
+### From random video Chris Gethard ###
++ think about Why these people, why here/location, why this activity/present.
