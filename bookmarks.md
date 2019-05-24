@@ -34,7 +34,6 @@
 + [ ] [Internet is hard, good intro to web developement](https://internetingishard.com/html-and-css/flexbox)
 + [ ] *[Notes on writing well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
 + [ ] [a philosphy of software design, book review](https://news.ycombinator.com/item?id=18331219)
-+ [ ] [Get Started with angular 2 and asp.net core in vs code](https://fullstackmark.com/post/9/get-started-with-angular-2-and-aspnet-core-in-visual-studio-code)
 + [ ] Testing
     - [ ] [angular unit testing step by step](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
     - [ ] [Begining Test Driven Dev in .NET core](https://fullstackmark.com/post/8/beginning-test-driven-development-in-net-core)
