@@ -1,6 +1,6 @@
 
 + using 'the' in Countires or something unique to subject. _Tiger can be found in the Nepal_ //this seems bit wrong
-+ Name and contries are always Captialize
++ Name and countries are always Captialize
  - My name is Rabin
  - He went to study in United States.
 + their vs there
@@ -13,3 +13,6 @@
 + plural and singular agreements with verb
 + abuse of adverbs
 + oxford comma
++ effect vs affect(harm)
++ famous vs infamous
++ Pronouns ( a, an, the)
